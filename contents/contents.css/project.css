@@ -54,15 +54,19 @@ h1 {
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-.project-X {
+.project-A {
     background: linear-gradient(to right, #43cea2, #185a9d);
 }
-.project-Y {
+.project-B {
     background: linear-gradient(to right, #ff512f, #f09819);
 }
-.project-Z {
+.project-C {
     background: linear-gradient(to right, #8e2de2, #4a00e0);
 }
+.project-D {
+    background: linear-gradient(to right, #f7cac9, #92a8d1); /* soft pink to dusty blue */
+}
+
 
 .project-box:hover {
     transform: translateY(-5px);
